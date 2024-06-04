@@ -201,11 +201,11 @@
   ],
   "devDependencies": {
     "@npmcli/eslint-config": "^2.0.0",
-    "@npmcli/template-oss": "^2.4.3",
+    "@npmcli/template-oss": "^4.22.0",
     "eslint": "^8.3.0",
     "licensee": "^8.2.0",
     "spawk": "^1.7.1",
-    "tap": "^15.1.6"
+    "tap": "^19.0.2"
   },
   "scripts": {
     "dumpconf": "env | grep npm | sort | uniq",

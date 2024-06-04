@@ -45,9 +45,9 @@
     "files": "test/*.js"
   },
   "devDependencies": {
-    "@npmcli/template-oss": "^2.4.2",
+    "@npmcli/template-oss": "^4.22.0",
     "bin-links": "^3.0.0",
-    "tap": "^15.0.6"
+    "tap": "^19.0.2"
   },
   "dependencies": {
     "@npmcli/arborist": "^4.0.0",

@@ -43,9 +43,9 @@
     "check-coverage": true
   },
   "devDependencies": {
-    "@npmcli/template-oss": "^2.4.2",
+    "@npmcli/template-oss": "^4.22.0",
     "eslint": "^8.1.0",
-    "tap": "^15.0.9"
+    "tap": "^19.0.2"
   },
   "dependencies": {
     "@npmcli/disparity-colors": "^1.0.1",
