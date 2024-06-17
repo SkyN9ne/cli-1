@@ -42,8 +42,8 @@
     "check-coverage": true
   },
   "devDependencies": {
-    "@npmcli/template-oss": "^2.4.2",
-    "tap": "^15.0.9"
+    "@npmcli/template-oss": "^4.22.0",
+    "tap": "^19.2.5"
   },
   "dependencies": {
     "@npmcli/arborist": "^4.0.0"
