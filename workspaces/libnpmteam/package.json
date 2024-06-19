@@ -17,9 +17,9 @@
     "snap": "tap"
   },
   "devDependencies": {
-    "@npmcli/template-oss": "^2.4.2",
+    "@npmcli/template-oss": "^4.22.0",
     "nock": "^12.0.1",
-    "tap": "^15"
+    "tap": "^19"
   },
   "repository": {
     "type": "git",
